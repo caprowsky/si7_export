@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SI7 export feature.
+ */
+
+include_once 'si7_export.features.inc';
